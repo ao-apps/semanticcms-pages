@@ -1,0 +1,6 @@
+[submodule "missing"]
+	path = missing
+	url = git@github.com:aoindustries/semanticcms-pages-missing.git
+[submodule "all"]
+	path = all
+	url = git@github.com:aoindustries/semanticcms-pages-all.git
