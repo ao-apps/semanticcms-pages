@@ -1,3 +1,6 @@
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/semanticcms-pages-all.git
+[submodule "unavailable"]
+	path = unavailable
+	url = git@github.com:aoindustries/semanticcms-pages-unavailable.git

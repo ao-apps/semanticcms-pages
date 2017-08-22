@@ -33,11 +33,11 @@ along with semanticcms-pages.  If not, see <http://www.gnu.org/licenses />.
 		title="@{documented.name}"
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
-		datePublished="2017-08-20T23:04:43-0500"
+		datePublished="2017-08-22T17:48:07-0500"
 	>
 		<core:child page="changelog.jspx" />
 		<core:child book="/pages/all" page="/index.jspx" />
-		<core:child book="/pages/missing" page="/index.jspx" />
+		<core:child book="/pages/unavailable" page="/index.jspx" />
 		<ao:include
 			page="/ao-badges/badges.inc.jspx"
 			arg.projectStatus="${currentPage.property.projectStatus}"
@@ -60,7 +60,7 @@ along with semanticcms-pages.  If not, see <http://www.gnu.org/licenses />.
 		<section:section label="Modules">
 			<ul>
 				<li><core:link book="/pages/all" page="/index.jspx" /></li>
-				<li><core:link book="/pages/missing" page="/index.jspx" /></li>
+				<li><core:link book="/pages/unavailable" page="/index.jspx" /></li>
 			</ul>
 		</section:section>
 		<!-- TODO: section:aside here and all other "Related Projects" -->

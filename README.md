@@ -28,7 +28,7 @@ Aggregator POM for additional redistributable sets of [SemanticCMS](https://sema
 
 ## Modules
 * [SemanticCMS Pages All](https://semanticcms.com/pages/all/)
-* [SemanticCMS Pages Missing](https://semanticcms.com/pages/missing/)
+* [SemanticCMS Pages Unavailable](https://semanticcms.com/pages/unavailable/)
 
 ## Related Projects
 * [SemanticCMS Core Pages](https://semanticcms.com/core/pages/)

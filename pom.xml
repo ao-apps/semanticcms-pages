@@ -53,7 +53,7 @@ along with semanticcms-pages.  If not, see <http://www.gnu.org/licenses />.
 		<module>book</module>
 		<module>all</module>
 		<module>all/book</module>
-		<module>missing</module>
-		<module>missing/book</module>
+		<module>unavailable</module>
+		<module>unavailable/book</module>
 	</modules>
 </project>
