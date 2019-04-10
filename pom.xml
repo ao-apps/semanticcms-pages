@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 semanticcms-pages - Aggregator POM for additional redistributable sets of SemanticCMS pages.
-Copyright (C) 2017, 2018  AO Industries, Inc.
+Copyright (C) 2017, 2018, 2019  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -32,7 +32,7 @@ along with semanticcms-pages.  If not, see <http://www.gnu.org/licenses />.
 	<groupId>com.semanticcms</groupId><artifactId>semanticcms-pages</artifactId><version>2.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>SemanticCMS Pages</name>
+	<name>SemanticCMS 2 Pages</name>
 	<url>https://semanticcms.com/pages/</url>
 	<description>Aggregator POM for additional redistributable sets of SemanticCMS pages.</description>
 	<inceptionYear>2017</inceptionYear>
