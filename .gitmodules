@@ -1,12 +1,12 @@
 [submodule "bom"]
 	path = bom
-	url = git@github.com:aoindustries/semanticcms-pages-bom.git
+	url = git@github.com:ao-apps/semanticcms-pages-bom.git
 	branch = .
 [submodule "all"]
 	path = all
-	url = git@github.com:aoindustries/semanticcms-pages-all.git
+	url = git@github.com:ao-apps/semanticcms-pages-all.git
 	branch = .
 [submodule "unavailable"]
 	path = unavailable
-	url = git@github.com:aoindustries/semanticcms-pages-unavailable.git
+	url = git@github.com:ao-apps/semanticcms-pages-unavailable.git
 	branch = .
