@@ -39,7 +39,7 @@ along with semanticcms-pages.  If not, see <https://www.gnu.org/licenses/>.
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
-  <name>SemanticCMS Pages²</name>
+  <name>SemanticCMS Pages</name>
   <url>https://semanticcms.com/pages/</url>
   <description>Aggregator POM for additional redistributable sets of SemanticCMS pages.</description>
   <inceptionYear>2017</inceptionYear>
